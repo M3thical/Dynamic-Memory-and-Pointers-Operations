@@ -36,7 +36,7 @@ To run this project on your computer, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/dynamic-pointer-operations.git
+    git clone https://github.com/M3thical/dynamic-pointer-operations.git
     ```
 
 2. Navigate to the project directory:
